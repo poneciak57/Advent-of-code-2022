@@ -11,15 +11,15 @@
 | Day      | Stars | Description |
 | ----------- | ----------- | ----------- |
 |[Day1](Day1)|:star: :star:| warm up|
-|Day2|:star: :star:| i overcomplicated this and predefined a lot|
-|Day3|:star: :star:| some fancy ascii operations |
-|Day4|:star: :star:| i changed input a little bit :grimacing:|
-|Day5|:star: :star:| my challeng was to read the input without changes |
-|Day6|:star: :star:| just 3 nested for loops|
-|Day7|:star: :star:| looked really hard but was easy|
-|Day8|:star: :star:| i think i saw similar task year ago|
-|Day9|:star: :star:| it was pretty tough for me to complete second star|
-|Day10|:star: :star:| very satisfying i really like image output tasks|
+|[Day2](Day2)|:star: :star:| i overcomplicated this and predefined a lot|
+|[Day3](Day3)|:star: :star:| some fancy ascii operations |
+|[Day4](Day4)|:star: :star:| i changed input a little bit :grimacing:|
+|[Day5](Day5)|:star: :star:| my challeng was to read the input without changes |
+|[Day6](Day6)|:star: :star:| just 3 nested for loops|
+|[Day7](Day7)|:star: :star:| looked really hard but was easy|
+|[Day8](Day8)|:star: :star:| i think i saw similar task year ago|
+|[Day9](Day9)|:star: :star:| it was pretty tough for me to complete second star|
+|[Day10](Day10)|:star: :star:| very satisfying i really like image output tasks|
 
 <br>
 <br>
