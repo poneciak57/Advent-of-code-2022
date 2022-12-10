@@ -67,6 +67,8 @@ if its first snapshot it will create folder for snapshot in `your_day` forlder a
 <br>
 
 # Disclaimer
-If you want to use it as a template for your advent of code solutions do not change anything in config or makefile. If you are not sure what you are doing just follow the instructions. Makefile was writen only for my purposes and can not work corectly on all devices and its simple by design.
+If you want to use it as a template for your advent of code solutions do not change anything in config or makefile. If you are not sure what you are doing just follow the instructions. Makefile was writen only for my purposes and might not work corectly on all devices also its simple by design.
 
-Commits on github might be in a wrong order because i created repo on day 10 and tried to group everything right
+Commits might be in a wrong order because i created repo on day 10 and tried to group everything right
+
+Folders are in wrong order because i forgot about that that Day10 will be before Day2 :disappointed_relieved: and its ordered by name and ugh i cant look at it sometimes but im to lazy to change it all at this point
