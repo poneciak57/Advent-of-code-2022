@@ -20,6 +20,7 @@
 |[Day8](Day8)|:star: :star:| i think i saw similar task year ago|
 |[Day9](Day9)|:star: :star:| it was pretty tough for me to complete second star|
 |[Day10](Day10)|:star: :star:| very satisfying i really like image output tasks|
+|[Day11](Day11)|:star: :star:| required some math but still was easy |
 
 <br>
 <br>
